@@ -1,4 +1,4 @@
-module github.com/regalen76/common
+module github.com/regalen76/nerucci_common
 
 go 1.23.4
 
